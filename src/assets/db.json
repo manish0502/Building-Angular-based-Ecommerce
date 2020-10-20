@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "categoryId": 1,
+      "productName": "Polo-Tshirt",
+      "description": "100% Cotton Single Jersey and bio-washed",
+      "rating": "5",
+      "price": 1200,
+      "productImg": "http://localhost:4200/assets/p11.jpg",
+    
+      "isAvailable": 1,
+      "color": "green",
+      "id": 4
+    },
+    {
+      "id": 2,
+      "productName": "Polo-Tshirt",
+      "categoryId": 1,
+      "description": "100% Cotton Single Jersey and bio-washed",
+      "productImg": "http://localhost:4200/assets/p33.jpg",
+      "price": 840,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": "Well I have been shopping online since 2012.  Before that I had lots of fear that something wud go wrong while buying online but that fear went off when I purchased my product through Flipkart for my mother in 2012!  It was b'day present for her and product was I purchase...",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(10% off)"
+    },
+    {
+      "id": 3,
+      "productName": "Polo-Tshirt",
+      "categoryId": 1,
+      "description": "100% Cotton Single Jersey and bio-washed",
+      "productImg": "http://localhost:4200/assets/p22.jpg",
+      "price": 940,
+      "is_available": true,
+      "rating": 4,
+      "reviews": "I do lot of purchases online these days due to Covid and convenience. Be careful of fraud sites. Had bad experiences before. So I stick to Amazon, Myntra as their return and refund policies are pretty straightforward. Though I don't recommend Flipkart due to bad customer service. ...",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(43% off)"
+    },
+    {
+      "id": 10,
+      "productName": "Sports Shoes",
+      "categoryId": 5,
+      "description": "Check & Stylish Shoes for mens",
+      "productImg": "http://localhost:4200/assets/j1.jpg",
+      "price": 800,
+      "is_available": true,
+      "rating": 4,
+      "reviews": "`the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(15% off)"
+    },
+    {
+      "id": 11,
+      "productName": " Formal Shoes",
+      "categoryId": 5,
+      "description": "Check & Stylish Shoes for mens",
+      "productImg": "http://localhost:4200/assets/j2.png",
+      "price": 890,
+      "is_available": true,
+      "rating": 4.8,
+      "reviews": "`the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(45% off)"
+    },
+    {
+      "id": 12,
+      "productName": "Casual Shoes",
+      "categoryId": 5,
+      "description": "Check & Stylish Shoes for mens",
+      "productImg": "http://localhost:4200/assets/j3.jpeg",
+      "price": 800,
+      "is_available": true,
+      "rating": 4,
+      "reviews": "`the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(65% off)"
+    },
+    {
+      "id": 1,
+      "productName": "Soccer-Tshirt",
+      "categoryId": 2,
+      "description": "Men's Size. Women Are Suggested To Order  Then Order S Unisex T-Shirt.",
+      "productImg": "http://localhost:4200/assets/2.jpg",
+      "price": 1900,
+      "is_available": true,
+      "rating": 4,
+      "reviews": "If I'll talk about me personal experience then all the products I brought online were osm...!! Ya but I'll recommend you to be aware of fraud website. You can choose a trusted website for your shopping. If I talk about me then I can say I like online shopping more then to just go to the marke...",
+      "vendor_name": "Seller -1",
+      "warranty": 2,
+      "offer": "(38% off)"
+    },
+    {
+      "id": 5,
+      "productName": "Casual-Tshirts",
+      "categoryId": 3,
+      "description": "100% Cotton Single Jersey and bio-washed",
+      "productImg": "http://localhost:4200/assets/5.jpeg",
+      "price": 40,
+      "is_available": true,
+      "rating": 5,
+      "reviews": "`f I'll talk about me personal experience then all the products I brought online were osm...!! Ya but I'll recommend you to be aware of fraud website. You can choose a trusted website for your shopping. If I talk about me then I can say I like online shopping more then to just go to the marke...`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(20% off)"
+    },
+    {
+      "id": 6,
+      "productName": "Casual-Tshirts",
+      "categoryId": 3,
+      "description": "100% Cotton Single Jersey and bio-washed",
+      "productImg": "http://localhost:4200/assets/6.jpeg",
+      "price": 1240,
+      "is_available": true,
+      "rating": 3.9,
+      "reviews": "`Hi friends, I am saurabh, today I want to about the online shopping, the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(20% off)"
+    },
+    {
+      "id": 7,
+      "productName": "Shirts",
+      "categoryId": 4,
+      "description": "100% Cotton Shirts for mens",
+      "productImg": "http://localhost:4200/assets/9.png",
+      "price": 1240,
+      "is_available": true,
+      "rating": 4.2,
+      "reviews": "`Hi friends, I am saurabh, today I want to about the online shopping, the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(25% off)"
+    },
+    {
+      "categoryId": 4,
+      "productName": "Shirts",
+      "description": "100% White & Stylish Shirts for mens and nice",
+      "rating": "4",
+      "price": "3000",
+      "productImg": "http://localhost:4200/assets/7.jpg",
+      "isAvailable": 1,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "productName": "Shirts",
+      "categoryId": 4,
+      "description": "Check & Stylish Shirts for mens",
+      "productImg": "http://localhost:4200/assets/11.png",
+      "price": 1240,
+      "is_available": true,
+      "rating": 5,
+      "reviews": "`the craze of online shopping is increasing day by day in whole country. anythink you want , you just have to order on the mobile by clicking which product you want and the product and will be comes in your home, .`",
+      "vendor_name": "Seller -2",
+      "warranty": 9,
+      "offer": "(45% off)"
+    },
+    {
+      "id": 15,
+      "categoryId": "2",
+      "productName": "Pingpong",
+      "description": "this is a new trend",
+      "rating": "1",
+      "price": "1233",
+      "productImg": "http://localhost:4200/assets/1.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "2"
+    },
+    {
+      "categoryId": "3",
+      "productName": "Golf Tshirts",
+      "description": "this is Description",
+      "rating": "2",
+      "price": "9000",
+      "productImg": "http://localhost:4200/assets/2.jpg",
+      "isAvailable": 1,
+      "color": "blue",
+      "reviews": "3",
+      "id": 16
+    },
+    {
+      "id": 18,
+      "categoryId": "2",
+      "productName": "casual Tshirts",
+      "description": "This is best ",
+      "rating": "2",
+      "price": "890",
+      "productImg": "http://localhost:4200/assets/3.jpeg",
+      "isAvailable": 1,
+      "color": "green",
+      "reviews": "2"
+    },
+    {
+      "categoryId": "2",
+      "productName": "casual Tshirts",
+      "description": "my love",
+      "rating": "2",
+      "price": "900",
+      "productImg": "http://localhost:4200/assets/p11.jpg", 
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "2",
+      "id": 123
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Polo Tshirts"
+    },
+    {
+      "id": 2,
+      "categoryName": "Soccer Tshirts"
+    },
+    {
+      "id": 3,
+      "categoryName": "Casual Tshirts"
+    },
+    {
+      "id": 4,
+      "categoryName": "Shirts"
+    },
+    {
+      "id": 5,
+      "categoryName": "Shoes"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

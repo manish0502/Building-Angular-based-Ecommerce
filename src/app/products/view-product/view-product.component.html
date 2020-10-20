@@ -1,0 +1,27 @@
+<div class="card mt-4">
+        <a href="#"><img class="card-img-top" src="{{ productDetails.productImg}}" alt="" width="300" height="400"></a>
+        <img class="card-img-top img-fluid" src="" alt="">
+    <div class="card-body">
+      <h3 class="card-title">{{ productDetails.productName }}</h3>
+      <a href="products/update-product/{{ productDetails.id}}">Update Product</a> |
+      <a href="products/delete-product/{{ productDetails.id}}">Delete Product</a>
+      <h4>₹{{productDetails.price}} {{productDetails.offer}}</h4>
+      <p class="card-text"> {{ productDetails.description}}</p>
+      <span class="text-warning">{{ productDetails.rating}} Stars</span>
+  
+    </div>
+  </div>
+  <!-- /.card -->
+
+  <div class="card card-outline-secondary my-4">
+    <div class="card-header">
+      Product Reviews
+    </div>
+    <div class="card-body">
+      <p>{{productDetails.reviews}}</p>
+      <small class="text-muted">Posted by Anonymous on 3/1/17</small>
+      <hr>
+      <a href="#" class="btn btn-success">Leave a Review</a>
+    </div>
+  </div>
+  <!-- /.card -->
